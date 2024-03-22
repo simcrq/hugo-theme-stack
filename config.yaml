@@ -30,6 +30,7 @@ params:
     article:
         math: true
         toc: true
+        mermaid: true
         readingTime: true
         license:
             enabled: false
